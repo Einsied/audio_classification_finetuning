@@ -1,6 +1,7 @@
 pandas
 torch
 librosa
+datasets==1.0.1
 transformers
 scikit-learn
 huggingface_hub
