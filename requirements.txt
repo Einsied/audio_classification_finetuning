@@ -1,7 +1,7 @@
 pandas
-torch
-librosa
-datasets==1.0.1
+pytorch
+conda-forge::librosa
+datasets==2.19.1
 transformers
 scikit-learn
 huggingface_hub
