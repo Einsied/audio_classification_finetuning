@@ -35,6 +35,10 @@ To set up this project, follow these steps:
    ```bash
    pip install -r requirements.txt
    ```
+   or using conda:
+   ```
+   conda install --file requirements_conda.txt
+   ```
 
 ## Usage 
 
